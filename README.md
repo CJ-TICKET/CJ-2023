@@ -10,7 +10,7 @@
 This project was conducted from June 2023 to August 2023 on the development of an vision detection model in CJ TES Center.
 
 Here is the site of
-[CJ TES Center]([[https://www.bistelligence.ai/](https://www.cjlogistics.com/ko/tes/story/technology)]).
+[CJ TES Center](https://www.cjlogistics.com/ko/tes/story/technology).
 
 ## Workflow
 
