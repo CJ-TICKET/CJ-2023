@@ -43,13 +43,13 @@ We have a workflow that visualizes the vision algorithm written in Python. The f
 
 ## PPT
 
-<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/5157178a-561c-46fd-ac2c-67a448d3987f"/>
-<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/e54caa68-b273-4b03-9000-429553114854"/>
-<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/05bdb5c4-8a6d-4f7e-b6ea-88851786abe3"/>
-<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/e32cfb29-0ba7-4d17-9de7-a843ed4f17fe"/>
-<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/ee417316-e373-44a0-91cb-be874f6970f7"/>
-<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/a78e8efb-47ec-4adb-835b-c595ad5b089a"/>
-<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/d946af90-f0f5-424e-b9fd-6f0a389777ad"/>
-<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/1beb9ce3-e9f2-4076-bc1d-02d6465e200b"/>
-<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/b67b445a-c045-45d4-8730-6507be077df0"/>
-<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/68e89d8c-76b3-46b2-a5b4-0ae1af99f740"/>
+<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/9643418b-a8bd-4b9e-ad5d-2553675f1233"/>
+<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/ad6e893a-0f2d-4be3-98b0-584981a55021"/>
+<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/66cd8f17-9569-4334-9069-217a18355f47"/>
+<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/59c6035d-5bd3-4785-ad84-8ec3a61ec44b"/>
+<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/b91a1cf2-1713-43fd-b7c6-7ee3312e22da"/>
+<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/77fd17b2-f414-4899-969c-ec4030c8df3f"/>
+<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/1b0ae689-f92d-4ba7-9cf2-4e52bbbb5d0d"/>
+<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/6862fd8c-440d-4b56-9c98-9083080dde9c"/>
+<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/633453b8-128e-47aa-b290-bcb45124e89d"/>
+<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/5c5b856b-bcee-43ff-8936-a730fe9c6192"/>
