@@ -4,6 +4,7 @@
 
 - [Introduction](#introduction)
 - [Workflow](#workflow)
+- [PPT](#ppt)
 
 # Introduction
 
@@ -40,3 +41,15 @@ We have a workflow that visualizes the vision algorithm written in Python. The f
   * image_extraction_pretrainedmodel.ipynb(모델 적용 코드를 연습한 코드입니다.)
   * image_preprocessing_code.ipynb(이미지 전처리 적용 코드를 연습한 코드입니다.)
 
+## PPT
+
+<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/5157178a-561c-46fd-ac2c-67a448d3987f"/>
+<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/e54caa68-b273-4b03-9000-429553114854"/>
+<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/05bdb5c4-8a6d-4f7e-b6ea-88851786abe3"/>
+<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/e32cfb29-0ba7-4d17-9de7-a843ed4f17fe"/>
+<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/ee417316-e373-44a0-91cb-be874f6970f7"/>
+<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/a78e8efb-47ec-4adb-835b-c595ad5b089a"/>
+<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/d946af90-f0f5-424e-b9fd-6f0a389777ad"/>
+<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/1beb9ce3-e9f2-4076-bc1d-02d6465e200b"/>
+<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/b67b445a-c045-45d4-8730-6507be077df0"/>
+<img width="80%" src="https://github.com/CJ-TICKET/CJ-VisionProject-2023/assets/48382347/68e89d8c-76b3-46b2-a5b4-0ae1af99f740"/>
